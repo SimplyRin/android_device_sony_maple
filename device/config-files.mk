@@ -90,4 +90,6 @@ PRODUCT_COPY_FILES += \
     $(DEVICE_PATH)/config/modem/919/modem.conf:$(TARGET_COPY_OUT_SYSTEM)/etc/customization/modem/919/modem.conf \
     $(DEVICE_PATH)/config/modem/920/modem.conf:$(TARGET_COPY_OUT_SYSTEM)/etc/customization/modem/920/modem.conf \
     $(DEVICE_PATH)/config/modem/924/modem.conf:$(TARGET_COPY_OUT_SYSTEM)/etc/customization/modem/924/modem.conf \
-    $(DEVICE_PATH)/config/modem/926/modem.conf:$(TARGET_COPY_OUT_SYSTEM)/etc/customization/modem/926/modem.conf
+    $(DEVICE_PATH)/config/modem/926/modem.conf:$(TARGET_COPY_OUT_SYSTEM)/etc/customization/modem/926/modem.conf \
+    $(DEVICE_PATH)/config/modem/928/modem.conf:$(TARGET_COPY_OUT_SYSTEM)/etc/customization/modem/928/modem.conf \
+    $(DEVICE_PATH)/config/modem/929/modem.conf:$(TARGET_COPY_OUT_SYSTEM)/etc/customization/modem/929/modem.conf
